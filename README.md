@@ -57,7 +57,7 @@ Explore interactive insights across:
 
 # 📌 Problem Statement
 
-Atliq, one of the fastest-growing companies in the electronics goods industry, was expanding rapidly across global markets. However, despite this growth, the company faced significant losses in the Latin American region due to business decisions being driven primarily by surveys, assumptions, and intuition rather than reliable analytical insights.
+Atliq Hardware , one of the fastest-growing companies in the electronics goods industry, was expanding rapidly across global markets. However, despite this growth, the company faced significant losses in the Latin American region due to business decisions being driven primarily by surveys, assumptions, and intuition rather than reliable analytical insights.
 
 The leadership team lacked a centralized platform to monitor financial performance, track operational risks, analyze profitability, and compare business performance across markets, customers, and products.
 
