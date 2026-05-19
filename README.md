@@ -36,6 +36,24 @@ Built using Power BI, this platform delivers a comprehensive 360° analytical vi
 More than just a dashboard, this project represents a complete business intelligence ecosystem focused on enabling smarter, faster, and data-driven growth.
 
 ---
+# 🔗 Live Interactive Dashboard
+
+Experience the fully interactive Power BI dashboard here:
+
+👉 **[Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDI4MjM0ZGMtY2YwNi00NDY4LWE3MjEtZGE0NGFkNTNjZTAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
+Explore interactive insights across:
+
+✅ Executive View  
+✅ Finance Analytics  
+✅ Sales Performance  
+✅ Marketing Performance  
+✅ Supply Chain Analysis  
+✅ Product Insights  
+
+---
+
+> **Note:** Best viewed on desktop/laptop for full interactive experience.
 
 # 📌 Problem Statement
 
