@@ -27,7 +27,7 @@ Transforming business intuition into data-driven strategic decision-making.
 
 # 📌 Project Overview
 
-In today’s fast-paced business environment, organizations that rely on intuition alone often struggle to scale efficiently. As Atliq expanded its global footprint in the electronics industry, the need for a unified, intelligence-driven decision-making ecosystem became increasingly critical.
+In today’s fast-paced business environment, organizations that rely on intuition alone often struggle to scale efficiently. As Atliq Hardware  expanded its global footprint in the electronics and Goods Market industry, the need for a unified, intelligence-driven decision-making ecosystem became increasingly critical.
 
 **Business Insights 360** was designed as an enterprise-grade business intelligence solution that transforms complex business data into clear, actionable insights for decision-makers across the organization.
 
