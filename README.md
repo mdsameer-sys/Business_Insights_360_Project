@@ -308,6 +308,10 @@ This architecture enables scalable reporting and efficient business calculations
 
 ---
 
+Enhanced dashboard performance using **DAX Studio** by analyzing query execution and optimizing DAX calculations, improving report responsiveness by approximately **5%** and delivering a smoother analytical experience.
+
+---
+
 # 📈 Business Insights Generated
 
 Key insights surfaced from analysis:
